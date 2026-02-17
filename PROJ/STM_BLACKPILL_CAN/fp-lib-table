@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM32F411CEU6")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/STM32F411CEU6")(options "")(descr ""))
+  (lib (name "ATA6561-GBQW-N")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/ATA6561-GBQW-N")(options "")(descr ""))
+  (lib (name "W25Q32JVSSIQ")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/W25Q32JVSSIQ/W25Q32JVSSIQ/KiCad")(options "")(descr ""))
+  (lib (name "830107088501")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/830107088501/KiCad")(options "")(descr ""))
+  (lib (name "FA-128_25.0000MF10Z-AC")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/FA-128_25.0000MF10Z-AC/KiCad")(options "")(descr ""))
+  (lib (name "LDO40LPU33RY")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/LDO40LPU33RY/KiCad")(options "")(descr ""))
+  (lib (name "BD50GA3WEFJ-E2")(type "KiCad")(uri "D:/CAN_STM/EXT_LIB/BD50GA3WEFJ-E2/KiCad")(options "")(descr ""))
+)

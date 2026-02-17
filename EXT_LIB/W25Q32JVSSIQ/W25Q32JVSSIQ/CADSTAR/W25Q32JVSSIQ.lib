@@ -1,0 +1,16 @@
+.W25Q32JVSSIQ :1 ;32Mb Serial NOR Flash 133MHz SOP8
+SOIC127P790X216-8N
+*STM IC
+*NGS
+*PLB 1="'CS'" 2="DO (IO1)" 3="'WP (IO2)'" 4="GND" 5="DI (IO0)" 6="CLK" 7="'HOLD OR '/RESET (IO3)" 8="VCC"
+*MXP 8
+*DFN W25Q32JVSSIQ
+~!Mouser Part Number (454-W25Q32JVSSIQ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Winbond/W25Q32JVSSIQ?qs=qSfuJ%252Bfl%2Fd4PGZSN0WxfCA%3D%3D)
+~!Manufacturer_Name (Winbond)
+~!Manufacturer_Part_Number (W25Q32JVSSIQ)
+~!Link Datasheet (https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q32JVSSIQ&type=datasheet)
+~!Height (2.16mm)
+~!3D_Model (W25Q32JVSSIQ)
+W25Q32JVSSIQ
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

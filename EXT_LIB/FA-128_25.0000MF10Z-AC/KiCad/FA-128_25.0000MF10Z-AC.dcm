@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FA-128_25.0000MF10Z-AC
+D Crystals 25MHz 10PPM -20C +75C 9.0pF
+K
+F 
+$ENDCMP
+#
+#End Doc Library

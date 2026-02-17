@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BD50GA3WEFJ-E2
+#/326764/1582932/2.50/9/3/Integrated Circuit
+DEF BD50GA3WEFJ-E2 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "BD50GA3WEFJ-E2" 1250 200 50 H V L CNN
+F2 "SOIC127P600X100-9N" 1250 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/BD50GA3WEFJ-E2.pdf" 1250 0 50 H I L CNN
+F4 "ROHM - BD50GA3WEFJ-E2 - Fixed LDO Voltage Regulator, 4.5V to 14V, 450mV Dropout, 5Vout, 300mAout, HTSOP-8" 1250 -100 50 H I L CNN "Description"
+F5 "1" 1250 -200 50 H I L CNN "Height"
+F6 "755-BD50GA3WEFJ-E2" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD50GA3WEFJ-E2?qs=QbAZ1slfEbRDJO%252B514ygFA%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ROHM Semiconductor" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "BD50GA3WEFJ-E2" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VO 1 0 0 200 R 50 50 0 0 P
+X FB 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X N.C._1 4 0 -300 200 R 50 50 0 0 P
+X EP 9 700 -800 200 U 50 50 0 0 P
+X VCC 8 1400 0 200 L 50 50 0 0 P
+X N.C._3 7 1400 -100 200 L 50 50 0 0 P
+X N.C._2 6 1400 -200 200 L 50 50 0 0 P
+X EN 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

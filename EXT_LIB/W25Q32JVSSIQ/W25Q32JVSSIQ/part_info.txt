@@ -1,0 +1,9 @@
+Manufacturer=Winbond
+PartNumber=W25Q32JVSSIQ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=6.1
+Released=2019-10-16 04:13:09
+Downloaded=2025-02-02 12:52:04
+3D=Y
